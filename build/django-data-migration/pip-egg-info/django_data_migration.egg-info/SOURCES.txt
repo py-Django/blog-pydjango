@@ -1,0 +1,16 @@
+LICENSE
+MANIFEST.in
+README.rst
+setup.cfg
+data_migration/__init__.py
+data_migration/migration.py
+data_migration/models.py
+data_migration/utils.py
+data_migration/version.py
+data_migration/management/commands/__init__.py
+data_migration/management/commands/migrate_this_shit.py
+pip-egg-info/django_data_migration.egg-info/PKG-INFO
+pip-egg-info/django_data_migration.egg-info/SOURCES.txt
+pip-egg-info/django_data_migration.egg-info/dependency_links.txt
+pip-egg-info/django_data_migration.egg-info/requires.txt
+pip-egg-info/django_data_migration.egg-info/top_level.txt
