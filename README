@@ -3,7 +3,7 @@ Blog PyDjango
 
 personal blog built with Django.
 
-####requirements
+##requirements
 Django==1.6
 South==0.8.2
 argparse==1.2.1
